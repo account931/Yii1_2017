@@ -82,10 +82,10 @@ return array(
 // **                                                                                  **
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=mysql.hostinger.com.ua;dbname=u635964300_yii',
+			'connectionString' => 'mysql:host=mysql.hostinger.com.ua;dbname=u6',
 			'emulatePrepare' => true,
-			'username' => 'u635964300_accou',
-			'password' => 'mallwa931',
+			'username' => 'u',
+			'password' => 'm',
 			'charset' => 'utf8',
 			'tablePrefix' => 'tbl_',
 		),
