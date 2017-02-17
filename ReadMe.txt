@@ -1,4 +1,4 @@
-THE  blog  to  develop  after  transmitting  to  waze.esy.es
+THE  blog  to  develop  after  transmitting  to  /www.w+\.esy\.es\gi
 //(do not DEVELOP  this  Blog==false!!!!!!)
 
 //This  is  just  a  test  YII app->, just  checked  if  it  possible  to  deploy YYI  anywhere ,wjithout  consoling->YES, just  change  the  path  to  framefork in index.php
